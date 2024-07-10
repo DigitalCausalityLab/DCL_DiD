@@ -38,7 +38,7 @@ library(rmarkdown)
 To load the data from our generated data set, we first set the working directory and read in the excel file. Note that we saved our data in the csv format.
 
 ```{r}
-setwd("C:/Users/thilo/OneDrive/Dokumente/CausalityLab")
+setwd("~")
 testdata <- read.csv("testdata.CSV", sep=";")
 View(testdata)
 ```
