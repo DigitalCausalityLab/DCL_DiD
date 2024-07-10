@@ -8,4 +8,4 @@ A DiD design has assumption that, in the absence of treatment, the treatment and
 This project is useful for anyone, who wants to understand how a DiD-Design works. We also draw attention to the assumptions and limitations of a DiD-Design. This project is for you, if you want to get a 
 broad intuition about causality and DiD. 
 
-To get started, download the dataset testdata.csv and save it together with the R script in one folder. This notebook will walk you through the code and gives background information on the kex concepts of a DiD: INSERT NOTEBOOK 
+To get started, download the dataset testdata.csv and save it together with the R script in one folder. The notebook Notebook_Did.qmd will walk you through the code and gives background information on the key concepts of a DiD.
