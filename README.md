@@ -1,5 +1,6 @@
-This project is part of the Digital Causality Lab from the ISA-Zentrum at Hamburg University. In this project, we describe how a Differences-in-Differences-Design works theoretically and illustrate this with example data. 
+## Diff-in-Diff Design in the DCL
 
+This project is part of the Digital Causality Lab from the ISA-Zentrum at Hamburg University. In this project, we describe how a Differences-in-Differences-Design works theoretically and illustrate this with example data. 
 
 A DiD is a statistical technique used to estimate the causal effect of a treatment by comparing the differences in outcomes over time between a group that is exposed to the treatment and a group that is not. It helps to control for time-invariant unobserved heterogeneity. Here, a treatment group is exposed to the intervention or treatment.The group of subjects or entities that are not exposed to the intervention or treatment, serving as a baseline to compare the treatment group's outcomes. In our example, some districts receive a minimum wage, while others are not.
 

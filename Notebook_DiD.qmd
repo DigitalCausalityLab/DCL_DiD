@@ -1,5 +1,5 @@
 ---
-title: "Dif-in-Dif Design in the DCL"
+title: "Diff-in-Diff Design in the DCL"
 author: "Aranka Bálint"
 format: html
 embed-resources: true
@@ -38,7 +38,7 @@ library(rmarkdown)
 To load the data from our generated data set, we first set the working directory and read in the excel file. Note that we saved our data in the csv format.
 
 ```{r}
-setwd("~")
+# setwd("~")
 testdata <- read.csv("testdata.CSV", sep=";")
 View(testdata)
 ```
